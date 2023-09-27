@@ -19,4 +19,4 @@ def main(a):
         return "three-digit odd number"
     if a%100>=1 and a%2==0:
         return "three-digit even number"
-print(main(345))
+print(main(345)) 
